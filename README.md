@@ -14,7 +14,7 @@ https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-deliv
 * tomcat
 
 ## Eclipse Project setup
-* Use git clone to pull project into workspace directory - Ram changed
+* Use git clone to pull project into workspace directory - Ram deployed
  * git clone https://github.com/DEV3L/mvn-hello-world-web-app.git
 * Use maven to resolve Eclipse dependencies
  * mvn eclipse:eclipse
